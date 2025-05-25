@@ -73,3 +73,10 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+
+# Ignore everything under the directory
+Users/ericoh/Unity/A Little Wizard copy 121524/Unity-A-Little-Wizard/A Little Wizard'
+# But don't ignore the following directory
+!Users/ericoh/Unity/A Little Wizard copy 121524/Unity-A-Little-Wizard/A Little Wizard/Assets/Scripts'
