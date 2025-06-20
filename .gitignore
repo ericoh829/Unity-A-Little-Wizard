@@ -82,9 +82,7 @@ crashlytics-build.properties
 /**
 
 # Allow only the Assets folder and its contents
-!/Assets/
-!/Assets/**
-
-!/A Little Wizard/Assets/Scripts
-!/A Little Wizard/Assets/Scripts/**
+!/A Little Wizard/
+!/A Little Wizard/Assets/
+!/A Little Wizard/Assets/**
 
