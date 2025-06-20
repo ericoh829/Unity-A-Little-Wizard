@@ -83,7 +83,7 @@ crashlytics-build.properties
 
 
 # Ignore everything
-/**
+
 
 # Allow only the Assets folder and its contents
 !/Assets/
