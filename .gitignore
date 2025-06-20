@@ -85,6 +85,6 @@ crashlytics-build.properties
 !/Assets/
 !/Assets/**
 
-!A Little Wizard/Assets/Scripts
-!A Little Wizard/Assets/Scripts/**
+!/A Little Wizard/Assets/Scripts
+!/A Little Wizard/Assets/Scripts/**
 
