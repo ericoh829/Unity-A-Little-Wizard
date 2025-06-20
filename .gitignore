@@ -76,12 +76,16 @@ crashlytics-build.properties
 
 
 
-**/*
-# Ignore everything under the directory
-Users/ericoh/Unity/Unity-A-Little-Wizard/A Little Wizard/*
+
 
 # But don't ignore the following directory
 !Users/ericoh/Unity/Unity-A-Little-Wizard/A Little Wizard/Assets/Scripts
-!*.cs
 
+
+# Ignore everything
+/**
+
+# Allow only the Assets folder and its contents
+!/Assets/
+!/Assets/**
 
