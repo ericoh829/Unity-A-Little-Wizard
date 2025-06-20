@@ -80,3 +80,5 @@ crashlytics-build.properties
 Users/ericoh/Unity/Unity-A-Little-Wizard/A Little Wizard/*
 # But don't ignore the following directory
 !Users/ericoh/Unity/Unity-A-Little-Wizard/A Little Wizard/Assets/Scripts/*
+
+*.*
